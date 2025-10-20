@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+requests
+streamlit
+transformers
+transformers[sentencepiece]
+datasets
+rouge_score
+py7zr
+sacrebleu
+nltk
+accelerate
+torch
+watchdog
